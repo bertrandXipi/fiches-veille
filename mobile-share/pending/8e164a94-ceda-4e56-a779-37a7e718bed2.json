@@ -1,0 +1,19 @@
+{
+  "id": "8e164a94-ceda-4e56-a779-37a7e718bed2",
+  "batch_id": "2063dfb2-564c-4bd7-a389-a5b16b836afc",
+  "url": "https://example.com",
+  "title": null,
+  "note": "⁠test première veille",
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2025-12-13T20:46:08.223Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1449502675321225236",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1449502675321225236"
+  }
+}
