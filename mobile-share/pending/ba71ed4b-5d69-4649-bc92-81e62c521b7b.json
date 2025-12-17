@@ -1,0 +1,19 @@
+{
+  "id": "ba71ed4b-5d69-4649-bc92-81e62c521b7b",
+  "batch_id": "9e7e8f89-16f3-4956-a68e-8f0aaaa2b75f",
+  "url": "https://www.reddit.com/r/Bard/s/jLHQQBVGGn",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2025-12-17T07:27:50.342Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1450751327847321724",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1450751327847321724"
+  }
+}
