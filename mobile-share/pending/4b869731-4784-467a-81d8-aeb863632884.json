@@ -1,0 +1,19 @@
+{
+  "id": "4b869731-4784-467a-81d8-aeb863632884",
+  "batch_id": "c385e926-525d-4ea8-90f9-38e638d91e83",
+  "url": "https://www.reddit.com/r/singularity/s/5MlqEm99GN",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2025-12-18T09:15:49.698Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1451140891778617366",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1451140891778617366"
+  }
+}
