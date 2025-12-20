@@ -1,0 +1,5 @@
+Error: HTTP 404
+    at fetchWithRetry (file:///Users/bertrand/Sites/second-brain/batch-processor/src/fetch-content.js:60:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchAndExtract (file:///Users/bertrand/Sites/second-brain/batch-processor/src/fetch-content.js:14:16)
+    at async main (file:///Users/bertrand/Sites/second-brain/batch-processor/src/index.js:64:27)
