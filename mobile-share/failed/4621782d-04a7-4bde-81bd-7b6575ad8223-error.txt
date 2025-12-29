@@ -1,0 +1,7 @@
+Error: spawnSync /bin/sh ETIMEDOUT
+    at Object.spawnSync (node:internal/child_process:1120:20)
+    at spawnSync (node:child_process:878:24)
+    at execSync (node:child_process:959:15)
+    at summarizeWithGemini (file:///Users/bertrand/Sites/second-brain/batch-processor/src/llm-summarize.js:28:20)
+    at main (file:///Users/bertrand/Sites/second-brain/batch-processor/src/index.js:74:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
