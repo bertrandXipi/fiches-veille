@@ -1,0 +1,19 @@
+{
+  "id": "cea6ca97-2f0c-47ac-bf35-43ab088dea1b",
+  "batch_id": "96f0583c-a14c-4364-ba6f-359907247c07",
+  "url": "https://www.reddit.com/r/VibeCodeDevs/s/6CCOwyu1U3",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-02T08:25:17.312Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1456563991580115127",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1456563991580115127"
+  }
+}
