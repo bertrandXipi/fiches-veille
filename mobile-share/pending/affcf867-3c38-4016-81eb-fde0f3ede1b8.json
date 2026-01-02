@@ -1,0 +1,19 @@
+{
+  "id": "affcf867-3c38-4016-81eb-fde0f3ede1b8",
+  "batch_id": "4497cf7a-1734-4fab-b827-c04f59076520",
+  "url": "https://www.reddit.com/r/vibecoding/s/mWIb3ltKzy",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-02T08:20:05.621Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1456562684362362925",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1456562684362362925"
+  }
+}
