@@ -1,0 +1,19 @@
+{
+  "id": "a826a7b4-07ac-4cb2-8752-4cdf6dc89602",
+  "batch_id": "df7e2eb7-21c7-4cb9-9793-777958ba46bf",
+  "url": "https://www.reddit.com/r/GrowthHacking/s/oVBThQKZh9",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-05T11:22:48.354Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1457695828901888115",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1457695828901888115"
+  }
+}
