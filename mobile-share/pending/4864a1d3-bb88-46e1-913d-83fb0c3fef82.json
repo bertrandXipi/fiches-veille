@@ -1,0 +1,19 @@
+{
+  "id": "4864a1d3-bb88-46e1-913d-83fb0c3fef82",
+  "batch_id": "884b3a3d-42df-4a4b-a10c-2f374cbe81ff",
+  "url": "https://www.youtube.com/watch?v=dEDtEmvwqyE&t=119s",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-15T11:33:22.719Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1461322368235475065",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1461322368235475065"
+  }
+}
