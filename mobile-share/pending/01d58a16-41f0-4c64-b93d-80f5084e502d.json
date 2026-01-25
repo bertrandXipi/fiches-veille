@@ -1,0 +1,19 @@
+{
+  "id": "01d58a16-41f0-4c64-b93d-80f5084e502d",
+  "batch_id": "5d660312-b150-49c4-95cf-6c77f35bd2f7",
+  "url": "https://www.reddit.com/r/ClaudeCode/comments/1qmnhim/claude_code_vs_openai_codex/",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-25T17:33:05.410Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1465036771028111557",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1465036771028111557"
+  }
+}
