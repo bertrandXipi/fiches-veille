@@ -1,0 +1,19 @@
+{
+  "id": "99050f71-d06f-43ce-9c32-78182eaf76c4",
+  "batch_id": "ae26acdc-6ca9-4212-8cdb-9dd3ac5ffd06",
+  "url": "https://www.reddit.com/r/website/comments/1qij579/whats_a_reasonable_cost_for_a_website/",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-25T20:04:39.415Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1465074914363969791",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1465074914363969791"
+  }
+}
