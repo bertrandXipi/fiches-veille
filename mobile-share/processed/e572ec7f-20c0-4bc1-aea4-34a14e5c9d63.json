@@ -1,0 +1,19 @@
+{
+  "id": "e572ec7f-20c0-4bc1-aea4-34a14e5c9d63",
+  "batch_id": "425dffd3-ecaa-4257-8296-176dce8dfc53",
+  "url": "https://www.reddit.com/r/buildinpublic/s/rU1w0wguV4",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-25T13:00:24.504Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1464968148515033272",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1464968148515033272"
+  }
+}

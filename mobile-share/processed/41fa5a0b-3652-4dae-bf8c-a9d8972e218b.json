@@ -1,0 +1,19 @@
+{
+  "id": "41fa5a0b-3652-4dae-bf8c-a9d8972e218b",
+  "batch_id": "c59a9cd3-3907-49ce-b008-180bd1e12686",
+  "url": "https://www.reddit.com/r/lovable/s/99sv1I4ZI3",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-19T07:49:56.579Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1462715690413981727",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1462715690413981727"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "3e94aed8-9f65-477c-8c8f-c4e88eba347f",
+  "batch_id": "bb89cf25-5d6d-4a03-b5a6-c9da337ae534",
+  "url": "https://www.reddit.com/r/scaleinpublic/s/I6TchotSZy",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-19T08:15:50.854Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1462722209482018878",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1462722209482018878"
+  }
+}
