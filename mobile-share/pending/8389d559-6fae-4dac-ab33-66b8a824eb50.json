@@ -1,0 +1,19 @@
+{
+  "id": "8389d559-6fae-4dac-ab33-66b8a824eb50",
+  "batch_id": "f0906325-00ef-492c-a8c4-f3c660a86273",
+  "url": "https://www.reddit.com/r/AgentsOfAI/s/DXctLoLnmP",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-25T15:07:40.822Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1465000177801629910",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1465000177801629910"
+  }
+}
