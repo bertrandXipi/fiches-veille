@@ -1,0 +1,8 @@
+Error: HTTP 403
+    at fetchWithRetry (file:///home/bertrand/second-brain/batch-processor/src/fetch-content.js:65:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async fetchAndExtract (file:///home/bertrand/second-brain/batch-processor/src/fetch-content.js:14:16)
+    at async processItem (file:///home/bertrand/second-brain/discord-ingest-bot/src/processor.js:52:25)
+    at async Client.handleMessage (file:///home/bertrand/second-brain/discord-ingest-bot/src/discord.js:66:24)
+
+Timestamp: 2026-01-25T17:19:50.245Z
