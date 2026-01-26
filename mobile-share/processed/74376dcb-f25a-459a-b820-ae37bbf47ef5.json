@@ -1,0 +1,20 @@
+{
+  "id": "74376dcb-f25a-459a-b820-ae37bbf47ef5",
+  "batch_id": "7beaff64-2bc2-4e52-adcf-5633655fa156",
+  "url": "https://www.reddit.com/r/firefox/s/UFNKBbsKlc",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-26T07:07:36.815Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1465241752548937803",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1465241752548937803"
+  },
+  "processed_at": "2026-01-26T07:08:31.209Z"
+}
