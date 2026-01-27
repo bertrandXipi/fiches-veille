@@ -1,0 +1,20 @@
+{
+  "id": "a44e48be-6d88-4e11-a1a3-7948b6e0e443",
+  "batch_id": "586bd932-200d-479d-9c67-6d9e11ef1bfd",
+  "url": "https://www.linkedin.com/posts/antonosika_a-lovable-user-recently-built-a-service-that-activity-7421602770027343872-cLQX?utm_source=share&utm_medium=member_ios&rcm=ACoAABVFmSQB_1DLOTmJwsRT2PNC0hrNEP6ztIA",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-27T09:28:29.572Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1465639593780183122",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1465639593780183122"
+  },
+  "processed_at": "2026-01-27T09:29:27.315Z"
+}
