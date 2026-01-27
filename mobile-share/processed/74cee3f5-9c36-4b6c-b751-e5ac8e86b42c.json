@@ -1,0 +1,20 @@
+{
+  "id": "74cee3f5-9c36-4b6c-b751-e5ac8e86b42c",
+  "batch_id": "f32e3738-5908-4297-9696-3cd175280df1",
+  "url": "https://x.com/techhalla/status/2015432232278917354",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-27T15:51:21.362Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1465735944886816892",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1465735944886816892"
+  },
+  "processed_at": "2026-01-27T15:51:31.614Z"
+}
