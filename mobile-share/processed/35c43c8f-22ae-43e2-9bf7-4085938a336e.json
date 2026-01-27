@@ -1,0 +1,20 @@
+{
+  "id": "35c43c8f-22ae-43e2-9bf7-4085938a336e",
+  "batch_id": "679f83e2-f5c6-480b-8e9d-fb04cef14476",
+  "url": "https://dev.to/sivarampg/from-clawdbot-to-moltbot-how-a-cd-crypto-scammers-and-10-seconds-of-chaos-took-down-the-4eck",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-27T12:07:41.710Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1465679658384359475",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1465679658384359475"
+  },
+  "processed_at": "2026-01-27T12:08:42.184Z"
+}
