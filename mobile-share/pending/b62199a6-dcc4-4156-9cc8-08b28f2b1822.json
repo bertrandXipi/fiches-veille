@@ -1,0 +1,19 @@
+{
+  "id": "b62199a6-dcc4-4156-9cc8-08b28f2b1822",
+  "batch_id": "517acde8-e20d-4acf-9917-f6d0a3cb5c0a",
+  "url": "https://a16z.com/the-palantirization-of-everything/",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-27T17:26:55.600Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1465759995890110578",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1465759995890110578"
+  }
+}
