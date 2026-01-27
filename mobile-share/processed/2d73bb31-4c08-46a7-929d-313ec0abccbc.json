@@ -1,0 +1,20 @@
+{
+  "id": "2d73bb31-4c08-46a7-929d-313ec0abccbc",
+  "batch_id": "f904fee3-07f7-49c9-ab95-f35bc2075736",
+  "url": "https://x.com/milesdeutscher/status/2016016997507862648?s=12",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-27T12:33:18.262Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1465686103066415321",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1465686103066415321"
+  },
+  "processed_at": "2026-01-27T12:34:24.121Z"
+}
