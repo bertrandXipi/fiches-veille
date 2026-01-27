@@ -1,0 +1,20 @@
+{
+  "id": "2d7034a3-e50b-4870-b44d-5023618e56bc",
+  "batch_id": "749c62e6-8b15-4ae4-8f2f-1b9ea12142e3",
+  "url": "https://www.reddit.com/r/kiroIDE/s/tvFGclFcLC",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-27T16:58:51.571Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1465752932648489256",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1465752932648489256"
+  },
+  "processed_at": "2026-01-27T17:00:06.117Z"
+}
