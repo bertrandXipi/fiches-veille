@@ -1,0 +1,20 @@
+{
+  "id": "2b419d95-44fe-4a42-8dda-42fe97cc0d92",
+  "batch_id": "a4689c4f-ce01-453b-bb09-ca13c5fb37b1",
+  "url": "https://x.com/turnkeychicago/status/2015801470810013742?s=12",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-27T05:58:15.444Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1465586686690988155",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1465586686690988155"
+  },
+  "processed_at": "2026-01-27T05:59:10.697Z"
+}
