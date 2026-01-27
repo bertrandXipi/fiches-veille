@@ -1,0 +1,20 @@
+{
+  "id": "e4b0b3c4-10de-4f68-9b35-c24cb5ad5c65",
+  "batch_id": "a47bcbcf-ca7d-4a6e-a6b6-022ab08ec905",
+  "url": "https://www.reddit.com/r/macapps/s/xGrDHp1iTX",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-27T12:46:40.837Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1465689469641429236",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1465689469641429236"
+  },
+  "processed_at": "2026-01-27T12:47:36.085Z"
+}
