@@ -1,0 +1,20 @@
+{
+  "id": "9aaeb7be-a216-4f10-849f-be024b1ff84b",
+  "batch_id": "ad5bdbe1-5c4b-40b3-a8ce-a94dd2905695",
+  "url": "https://www.reddit.com/r/GoogleGeminiAI/s/LtzavHrM8G",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-28T18:32:23.015Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1466138856326955131",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1466138856326955131"
+  },
+  "processed_at": "2026-01-28T18:33:19.388Z"
+}
