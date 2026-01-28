@@ -1,0 +1,20 @@
+{
+  "id": "b86da4c2-da23-4e58-bd3c-d66ecfbf18ee",
+  "batch_id": "9b79c8ed-04da-48e4-be62-65050ce56551",
+  "url": "https://www.reddit.com/r/accelerate/s/OZSH4zwccX",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-28T19:10:33.346Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1466148462864240640",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1466148462864240640"
+  },
+  "processed_at": "2026-01-28T19:11:33.169Z"
+}
