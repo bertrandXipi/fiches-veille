@@ -1,0 +1,20 @@
+{
+  "id": "788fed85-5749-47b3-84b5-30d84c25d8bb",
+  "batch_id": "842aa9a0-40fb-4125-abaa-9cd1c9af675e",
+  "url": "https://www.reddit.com/r/ClaudeAI/s/k6WAH3oNEq",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-29T06:12:34.801Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1466315066218385422",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1466315066218385422"
+  },
+  "processed_at": "2026-01-29T06:13:43.049Z"
+}
