@@ -1,0 +1,20 @@
+{
+  "id": "3c2063a6-92b2-4b8e-bb47-4206128d3564",
+  "batch_id": "7c1be8d9-7e43-4d46-8d5c-dcdcf48a5b93",
+  "url": "https://www.therundown.ai/p/chrome-gets-agentic-ai-upgrade?_bhlid=4eaa234680798ad3bdb45514b5705f029891f88c&jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJzY3JpYmVyX2lkIjoiMWEyNTlhNjQtYmU5Ny00ZjU2LWE2ZmYtOGQzNDc2MTliMGEwIiwicHVibGljYXRpb25faWQiOiI0ZDAzMzkwZC0yNDgxLTQyOTktYjk0OS1mZmQ4YjM4YjRjMzgiLCJhY2Nlc3NfdHlwZSI6InJlYWQtb25seSIsImV4cCI6MTc2OTg1Nzg4OCwiaXNzIjoiaHR0cHM6Ly9hcHAuYmVlaGlpdi5jb20iLCJpYXQiOjE3Njk2ODUwODh9.n00xFUhFy3q7fb2t05UxeC2t7ZfSTppFwnH_QDEXqlw",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-29T12:50:22.972Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1466415176852181057",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1466415176852181057"
+  },
+  "processed_at": "2026-01-29T12:51:24.638Z"
+}
