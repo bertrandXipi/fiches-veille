@@ -1,0 +1,19 @@
+{
+  "id": "70d84152-dc3f-41c8-8f05-b367b285211b",
+  "batch_id": "c852cd14-6543-4897-9907-e8a123dac0ee",
+  "url": "https://s3.amazonaws.com/media.mediapost.com/uploads/BAIN_report_technology_report_2025.pdf",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-29T06:48:19.729Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1466324063302586418",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1466324063302586418"
+  }
+}
