@@ -1,0 +1,20 @@
+{
+  "id": "89b380ce-3f59-4621-97d4-44c0b4309c73",
+  "batch_id": "811225e7-a34b-4ce1-baa8-96976fcf188c",
+  "url": "https://www.reddit.com/r/ArtificialInteligence/s/ClkJZTIlTh",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-30T07:42:21.231Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1466700047050608875",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1466700047050608875"
+  },
+  "processed_at": "2026-01-30T07:43:21.070Z"
+}
