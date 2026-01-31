@@ -1,0 +1,20 @@
+{
+  "id": "1ec23c9c-a7dd-435b-b673-71dff25d2491",
+  "batch_id": "56589e20-9837-4a34-bb8a-e414ea1ec230",
+  "url": "https://www.reddit.com/r/webdev/s/tys1vUsn6c",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-31T07:50:45.031Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1467064548002500670",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1467064548002500670"
+  },
+  "processed_at": "2026-01-31T07:51:36.582Z"
+}
