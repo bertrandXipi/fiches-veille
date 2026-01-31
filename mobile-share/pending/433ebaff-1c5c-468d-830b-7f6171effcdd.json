@@ -1,0 +1,19 @@
+{
+  "id": "433ebaff-1c5c-468d-830b-7f6171effcdd",
+  "batch_id": "2a276336-e53b-4af6-bcbd-2c20107ce04b",
+  "url": "https://vibecodecamp.blog/blog/everyone-talks-about-clawdbot-openclaw-but-heres-how-it-works",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-01-31T07:33:34.294Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1467060224719589523",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1467060224719589523"
+  }
+}
