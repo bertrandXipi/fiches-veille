@@ -1,0 +1,20 @@
+{
+  "id": "5f4e5abe-8ebd-47fb-a3cb-090d8a7ce92d",
+  "batch_id": "45b9940c-3f1f-4de8-ba76-49484354eaeb",
+  "url": "https://www.reddit.com/r/AI_Agents/s/gJMUF0bjwv",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-02-02T20:15:59.395Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1467976868874682483",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1467976868874682483"
+  },
+  "processed_at": "2026-02-02T20:16:49.435Z"
+}
