@@ -1,0 +1,20 @@
+{
+  "id": "40a8f9e8-745d-4a99-b541-8ec86489c920",
+  "batch_id": "c96008d1-aac3-4fad-92f6-e75f734f22ae",
+  "url": "https://www.reddit.com/r/codex/s/aL1BDixrvk",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-02-02T07:49:02.978Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1467788893859479726",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1467788893859479726"
+  },
+  "processed_at": "2026-02-02T07:49:50.162Z"
+}
