@@ -1,0 +1,20 @@
+{
+  "id": "09e3c22f-c253-4a90-816f-8c4884f6767e",
+  "batch_id": "ea9170d0-e889-4fce-a85d-137c72f5b668",
+  "url": "https://www.reddit.com/r/kiroIDE/s/VdlkicACer",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-02-11T06:41:37.840Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1471033418971222096",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1471033418971222096"
+  },
+  "processed_at": "2026-02-11T06:42:28.744Z"
+}
