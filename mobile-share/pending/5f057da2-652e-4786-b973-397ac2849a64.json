@@ -1,0 +1,19 @@
+{
+  "id": "5f057da2-652e-4786-b973-397ac2849a64",
+  "batch_id": "cd2341fb-c247-4921-8f35-f760fee3d5e1",
+  "url": "https://www.reddit.com/r/LovingAI/s/TKHZq5KMRT",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-02-13T20:00:33.861Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1471959253924188468",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1471959253924188468"
+  }
+}
