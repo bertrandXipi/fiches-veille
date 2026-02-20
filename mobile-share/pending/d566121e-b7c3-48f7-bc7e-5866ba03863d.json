@@ -1,0 +1,19 @@
+{
+  "id": "d566121e-b7c3-48f7-bc7e-5866ba03863d",
+  "batch_id": "270c1c40-069c-444d-8978-a66ba3e3e1f8",
+  "url": "https://www.reddit.com/r/notebooklm/s/AcvoRlthnj",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-02-20T14:37:59.306Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1474414789852794954",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1474414789852794954"
+  }
+}
