@@ -1,0 +1,20 @@
+{
+  "id": "2f664b5d-aaac-4409-a212-9bf2c4142306",
+  "batch_id": "1bb547e8-9d93-4984-a8cc-b9ca1fe6829f",
+  "url": "https://www.linkedin.com/posts/willie-falloon-961a8a68_my-hobby-project-node-banana-hit-1000-stars-ugcPost-7431401609940701184-AubY?utm_source=share&utm_medium=member_android&rcm=ACoAABVFmSQB_1DLOTmJwsRT2PNC0hrNEP6ztIA",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-02-23T08:06:47.148Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1475403504230334474",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1475403504230334474"
+  },
+  "processed_at": "2026-02-23T08:09:48.562Z"
+}
