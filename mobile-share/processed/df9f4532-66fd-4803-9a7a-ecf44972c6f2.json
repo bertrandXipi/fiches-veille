@@ -1,0 +1,20 @@
+{
+  "id": "df9f4532-66fd-4803-9a7a-ecf44972c6f2",
+  "batch_id": "346949c1-8518-49f6-a4a4-c1e96ae696e8",
+  "url": "https://www.linkedin.com/posts/imrane-abdoul-695b012a1_jai-cr%C3%A9%C3%A9-le-chatbot-le-plus-puissant-quon-share-7434203071137628161-8pXp?utm_source=share&utm_medium=member_android&rcm=ACoAABVFmSQB_1DLOTmJwsRT2PNC0hrNEP6ztIA",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-03-07T11:51:25.424Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1479808690503811154",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1479808690503811154"
+  },
+  "processed_at": "2026-03-07T11:52:33.176Z"
+}
