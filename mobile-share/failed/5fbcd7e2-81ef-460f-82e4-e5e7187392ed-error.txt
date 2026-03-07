@@ -1,0 +1,1 @@
+Failed to add source as text: MCP HTTP error: 404 - {"jsonrpc":"2.0","id":"server-error","error":{"code":-32600,"message":"Session not found"}}
