@@ -1,0 +1,20 @@
+{
+  "id": "e3f8c227-b33c-4d42-bf4f-42f36b15df59",
+  "batch_id": "0fcc1809-c2e8-4848-8f3c-08d6c2647da4",
+  "url": "https://www.kerenia.fr/appartements",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-03-09T12:59:23.934Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1480550571139399700",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1480550571139399700"
+  },
+  "processed_at": "2026-03-09T13:01:16.650Z"
+}
