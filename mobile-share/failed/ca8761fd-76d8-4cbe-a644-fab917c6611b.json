@@ -1,0 +1,19 @@
+{
+  "id": "ca8761fd-76d8-4cbe-a644-fab917c6611b",
+  "batch_id": "60989d30-8b83-4154-b037-1d766c4274b8",
+  "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1mk0b87/i_spent_a_week_building_a_landing_page_with/",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-03-22T19:19:29.255Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1485357266122313868",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1485357266122313868"
+  }
+}
