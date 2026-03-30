@@ -1,0 +1,6 @@
+To https://github.com/bertrandXipi/fiches-veille.git
+!	refs/heads/main:refs/heads/main	[remote rejected] (cannot lock ref 'refs/heads/main': is at e42b57d6356ef36e543bb00453a938a2a79c4501 but expected 0150f01ee6c1491d842b7a6094f2ab8155666e1a)
+Done
+Pushing to https://github.com/bertrandXipi/fiches-veille.git
+POST git-receive-pack (6418 bytes)
+error: failed to push some refs to 'https://github.com/bertrandXipi/fiches-veille.git'
