@@ -1,0 +1,20 @@
+{
+  "id": "e9ca4312-5534-46b5-b58e-707163140ae2",
+  "batch_id": "309fd4a5-5ae5-4625-b0e0-64ab5c09b773",
+  "url": "https://www.reddit.com/r/StartupMind/s/9ITFoAfZTG",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-04-01T12:26:52.120Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1488877306045923449",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1488877306045923449"
+  },
+  "processed_at": "2026-04-01T12:28:37.624Z"
+}
