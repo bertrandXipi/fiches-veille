@@ -1,0 +1,20 @@
+{
+  "id": "215e1388-dce8-4e04-9aef-fc66ed970573",
+  "batch_id": "54114db5-ee2b-4ea0-9ca5-451637aa1295",
+  "url": "https://www.reddit.com/r/AIToolsPerformance/s/93sh47lQxi",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-04-07T12:02:17.813Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1491045450789425253",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1491045450789425253"
+  },
+  "processed_at": "2026-04-07T12:03:33.506Z"
+}
