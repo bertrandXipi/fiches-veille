@@ -1,0 +1,2 @@
+Failed to add source as text: Failed to add text source: Client error '400 Bad Request' for url 'https://notebooklm.google.com/_/LabsTailwindUi/data/batchexecute?rpcids=izAoDd&source-path=%2Fnotebook%2Feea0382d-c943-416b-a20b-4427b9f9b5aa&bl=boq_labs-tailwind-frontend_20260108.06_p0&hl=en&rt=c&f.sid=boq_labs-tailwind-frontend_20260326.12_p0'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400

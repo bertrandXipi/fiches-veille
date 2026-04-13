@@ -1,0 +1,19 @@
+{
+  "id": "de23a0b6-4f08-437d-9255-c7ff8ad0a314",
+  "batch_id": "1b734fac-8e22-44be-9975-f21e8bdc50cd",
+  "url": "https://www.linkedin.com/posts/thomas-nurit_claude-vient-denterrer-openclaw-n8n-make-share-7447854416143085568-h0SI?utm_source=share&utm_medium=member_android&rcm=ACoAABVFmSQB_1DLOTmJwsRT2PNC0hrNEP6ztIA",
+  "title": null,
+  "note": null,
+  "tags": [],
+  "category": null,
+  "source": "discord",
+  "created_at": "2026-04-13T18:47:30.388Z",
+  "discord": {
+    "guild_id": "1026842752232734811",
+    "channel_id": "1449479522993836213",
+    "message_id": "1493321751852089344",
+    "author_id": "894581215720529961",
+    "author_username": "bertrand0824",
+    "message_url": "https://discord.com/channels/1026842752232734811/1449479522993836213/1493321751852089344"
+  }
+}
